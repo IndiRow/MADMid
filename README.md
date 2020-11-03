@@ -23,6 +23,8 @@ https://www.figma.com/file/2xGt1mB7uKx68oZDhotKdK/MADMid-project-design
 ![6339420332c02869ddc13b1a4b7cfb84](https://user-images.githubusercontent.com/39675003/97979459-685e3a00-1df9-11eb-92ff-b30b04073921.png)<br>
 
 ![fd233f83c93935db69caece8b14e6823](https://user-images.githubusercontent.com/39675003/97979467-6c8a5780-1df9-11eb-846a-4f34e336cfc5.png)
+
+![dd7dc79d6378137c61b2711cb5083160](https://user-images.githubusercontent.com/39675003/98012091-dff48f00-1e22-11eb-9b35-2f7d125cb549.png)
 <hr>
 <h2>Icon app also changed</h2><br>
 
