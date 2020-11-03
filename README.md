@@ -12,6 +12,10 @@ https://www.figma.com/file/2xGt1mB7uKx68oZDhotKdK/MADMid-project-design
 ![7bbc40f8d3febeadacd49b2e201d6a51](https://user-images.githubusercontent.com/39675003/97979273-10273800-1df9-11eb-90bd-d620ceee23f1.png)
 
 <hr>
+<h2>Piece of code and project structure</h2><br>
+
+![d2d9b6ad037c272dd17a17e642c0a22e](https://user-images.githubusercontent.com/39675003/97979811-03571400-1dfa-11eb-9959-e3e17c0c5868.png)
+
 <h2>App looks like</h2><br>
 
 ![6339420332c02869ddc13b1a4b7cfb84](https://user-images.githubusercontent.com/39675003/97979459-685e3a00-1df9-11eb-92ff-b30b04073921.png)<br>
